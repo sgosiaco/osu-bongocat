@@ -5,3 +5,5 @@ By default they are set to 'a' and 'x'.
 So if you wanted 'z' and 'x' you would run "final mkb.exe z x"
 To make this happen everytime without having to start it from the commandline,
 you can make a shortcut to the program and in the target field add the two keys after the quotes.
+
+Credit: original bongocat images taken from https://bongo.cat/ and modified by my friend Jeremy
